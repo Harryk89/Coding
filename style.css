@@ -1,0 +1,182 @@
+* {
+	margin-top: 0px;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+#main {
+	margin: 0px;
+	background:linear-gradient(to right, transparent 0%, rgba(53, 81, 127, 0.9) 0), url(Brandenburger-Tor.png) no-repeat;
+	background-size: cover;
+	font-family: Arial;
+	height: 100vh;
+	width: 100%;
+	color: white;
+	font-size: 100%;
+	font-weight: lighter;	
+}
+
+#h1_2 {
+	color: #f0e353;
+}
+
+span {
+	font-size: 12px;
+	font-style: bold;
+}
+
+#but {
+	width: 40%;
+	margin-left: 30%;
+	height: 50px;
+	border: 1px solid #f0e353;
+	color: #f0e353;
+	background: transparent;
+	font-size: 24px;
+	margin-top: 10%;
+	margin-bottom: 20px;
+}
+
+#but:hover {
+	margin-top: 10%;
+	background-color: #f0e353;
+	border-color: #fff;
+	color: #fff;
+}
+
+h1, h4, h2 {
+	font-weight: lighter;
+	padding-left: 5%;
+}
+
+#h1_1 {
+	padding-top: 5%;
+}
+
+#day {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding-left: 5px;
+	border-left: 3px solid #f0e353;
+	margin-left: 5%;
+}
+
+h1, h4, h6 {
+	margin-bottom: 0px;
+}
+
+h6.button {
+	text-align: center;
+	font-weight: lighter;
+}
+
+#arrow {
+	display: block;
+	height: 50px;
+	width: 50px;
+	border: 1px solid #fff;
+	transform: rotate(45deg);
+	margin-left: auto;
+	margin-right: auto;
+	border-top-style: none;
+	border-left-style: none;
+}
+
+#arrow:hover {
+	margin-top: 50px;
+	transition: 1s;
+}
+
+#quantity {
+	width: 180px;
+	height: 200px;
+	border: 1px solid #fff;
+	text-align: center;
+	float: right;
+	margin-right: 5%;
+	margin-top: 5%;
+	background: transparent;
+	color: #fff;
+}
+
+#quant1, #quant2 {
+	display: inline-block;
+}
+
+#number1, #number2 {
+	font-size: 100px;
+	font-family: Century gothic;
+	moz-transform: rotate(-30deg);
+}
+
+#two {
+	background-color: #55719f;
+	color: #fff;
+	border-top: 1px solid #fff;
+	font-family: Franklin Gothic;
+}
+
+#left {
+	display: inline-block;
+	width: 40%;
+	border-right: 1px solid #fff;
+	padding: 5%;
+}
+
+.twoWindow, #right {
+	display: inline-block;
+}
+
+#leftName {
+	font-size: 8px;
+	border-left: 1px solid #fff;
+	padding-left: 5px;
+	text-align: left; 
+}
+
+#leftLogo {
+	font-size: 56px;
+	font-weight: bold;
+	padding: 0px;
+}
+
+#leftOrganizer {
+	font-size: 20px;
+	padding-left: 30px;
+}
+
+#rightLogo {
+	display: inline-block;
+	font-size: 56px;
+	transform: rotate(45deg);
+	border: 2px solid #fff;
+	padding-left: 12px;
+	padding-right: 12px;
+	border-radius: 36px;
+	font-weight: bold;	
+}
+
+#rightName {
+	display: inline-block;
+	width: 66%;
+	font-family: Arial;
+	padding-left: 20px;
+}
+
+#right {
+	width: 39%;
+	padding: 5%;
+}
+
+h3 {
+	margin-bottom: 0px;
+}
+
+hr {
+	border: 1px solid #fff;
+	margin: 5px 0px;
+}
+
